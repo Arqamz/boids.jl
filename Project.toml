@@ -1,0 +1,4 @@
+name = "boids"
+uuid = "e09e88b1-5b74-4bea-9c1a-d99671fcc76c"
+authors = ["Arqam Zia <arqam.mzia@gmail.com>"]
+version = "0.1.0"
