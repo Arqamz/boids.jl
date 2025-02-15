@@ -48,7 +48,7 @@ end
 @async begin
     while true
         update_simulation()
-        sleep(0.01)
+        sleep(0.04)
     end
 end
 
